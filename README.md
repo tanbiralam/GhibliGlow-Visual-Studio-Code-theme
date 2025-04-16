@@ -79,6 +79,17 @@ This theme is released under the [MIT License](LICENSE).
 
 Created by [Tanbir Alam](https://github.com/yourusername)
 
+## Repository
+
+```json
+{
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanbiralam/GhibliGlow-Visual-Studio-Code-theme"
+  }
+}
+```
+
 ---
 
 **Enjoy!** ✨

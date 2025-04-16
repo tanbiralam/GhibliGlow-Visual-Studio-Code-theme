@@ -5,6 +5,12 @@
   "publisher": "tanbiralam",
   "description": "A Visual Studio Code theme inspired by Studio Ghibli's aesthetic",
   "icons": "icons/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanbiralam/GhibliGlow-Visual-Studio-Code-theme.git"
+  },
+  "license": "MIT",
+  "licenseFile": "LICENSE",
   "categories": [
     "Themes"
   ],
