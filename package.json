@@ -1,0 +1,35 @@
+{
+  "name": "ghibli-glow",
+  "displayName": "GhibliGlow",
+  "version": "1.0.0",
+  "publisher": "tanbiralam",
+  "description": "A Visual Studio Code theme inspired by Studio Ghibli's aesthetic",
+  "icons": "icons/logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ghibli Light",
+        "uiTheme": "vs",
+        "path": "./themes/ghibli-light.json"
+      },
+      {
+        "label": "Ghibli Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ghibli-dark.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.24.0"
+  }
+}
