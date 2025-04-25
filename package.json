@@ -2,9 +2,9 @@
   "name": "ghibli-glow",
   "displayName": "GhibliGlow",
   "version": "1.0.0",
-  "publisher": "tanbiralam",
+  "publisher": "itzmetanbir",
   "description": "A Visual Studio Code theme inspired by Studio Ghibli's aesthetic",
-  "icons": "icons/logo.png",
+  "icon": "icons/logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/tanbiralam/GhibliGlow-Visual-Studio-Code-theme.git"
