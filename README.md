@@ -77,7 +77,7 @@ This theme is released under the [MIT License](LICENSE).
 
 ## Author
 
-Created by [Tanbir Alam](https://github.com/yourusername)
+Created by [Tanbir Alam](https://github.com/tanbiralam)
 
 
 ---
